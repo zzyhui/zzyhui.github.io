@@ -3,3 +3,23 @@ a:hover
   color:Green;
 }
 
+body
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+main
+{
+  display: flex;
+}
+
+aside
+{
+  flex: 1;
+}
+
+article
+{
+  flex: 3;
+}
